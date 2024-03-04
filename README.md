@@ -3,21 +3,21 @@ Creating a full project report for a Global Superstore Sales Analysis involves m
 
 
 # Report
- 1.Introduction:
+### 1. Introduction:
 The Global Superstore, a multinational retail chain, operates across various regions, offering a diverse range of products. The Power BI analysis aims to gain insights into the sales performance, customer behavior, and overall profitability of the Global Superstore.
 
- 2.Objectives:
+### 2. Objectives:
 Understand sales trends over time.
 Identify key regions and product categories driving sales.
 Analyze customer segments for targeted marketing. 
 Uncover opportunities to optimize profitability. 
 Provide actionable recommendations for strategic decision-making.
 
-3.Data Source:
+### 3. Data Source:
 
 Utilizing a comprehensive dataset from the Global Superstore containing information on sales, products, customers, and regions.
 
-4. Dashboard Components:
+### 4. Dashboard Components:
 
 a. Sales Overview:
 - Visualizations depicting total sales, profit, and quantity sold.
@@ -37,15 +37,15 @@ d. Customer Segmentation:
 e. KPI Metrics:
 - Key Performance Indicators (KPIs) such as Average Order Value, Profit Margin, and Customer Retention Rate.
 
-## 5.Methodology:
+### 5.Methodology:
 Exploratory Data Analysis (EDA) is employed to uncover patterns and trends.
 Descriptive statistics are used to summarize key aspects of the data.
 Custom calculations and measures were created using DAX (Data Analysis Expressions) for specific insights.
 
-## 6.Interactive Features:
+### 6.Interactive Features:
 Utilization of Power BI's interactive features, allowing users to explore data dynamically. Filters and slicers enable users to focus on specific regions, periods, or product categories. 
 
-## 7. Conclusion:
+### 7. Conclusion:
 
 The Power BI analysis provides a comprehensive view of the Global Superstore's sales performance. Insights gained will guide strategic decision-making for improved profitability and operational efficiency.
 
