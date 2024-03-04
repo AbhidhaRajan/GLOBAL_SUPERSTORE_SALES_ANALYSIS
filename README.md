@@ -1,6 +1,9 @@
 # GLOBAL_SUPERSTORE_SALES_ANALYSIS
 Creating a full project report for a Global Superstore Sales Analysis involves multiple aspects, including data exploration, visualization and insights.
 
+# Video
+Here is the link to the video which describes the dashboard and the insights.
+
 
 # Report
 ### 1. Introduction:
