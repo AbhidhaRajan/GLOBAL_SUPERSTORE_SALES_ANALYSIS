@@ -3,6 +3,7 @@ Creating a full project report for a Global Superstore Sales Analysis involves m
 
 # Video
 Here is the link to the video which describes the dashboard and the insights.
+https://drive.google.com/file/d/1uf7djISJvJWxDVRCexQcCX6E1jsjMtS9/view?usp=drive_link
 
 
 # Report
